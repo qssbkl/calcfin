@@ -27,4 +27,5 @@ private slots:
 
 };
 
+
 #endif // GRAPHG_H
